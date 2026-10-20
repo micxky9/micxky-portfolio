@@ -6,16 +6,16 @@ export const socialData = [
 ];
 
 export const statsData = [
-  { label: 'Projects shipped', value: '42+' },
-  { label: 'Years experience', value: '5' },
-  { label: 'Components built', value: '150+' },
-  { label: 'Performance', value: '99%' },
+  { label: 'Projects shipped', value: '10+' },
+  { label: 'Years experience', value: '2' },
+  { label: 'Components built', value: '50+' },
+  { label: 'Performance', value: '95%' },
 ];
 
 export const skillData = [
   {
     title: 'Frontend',
-    items: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
+    items: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
   },
   {
     title: 'Backend',
@@ -24,7 +24,7 @@ export const skillData = [
 
   {
     title: 'Tools',
-    items: ['Git', 'Vercel', 'Figma', 'ESLint'],
+    items: ['Git', 'Vercel', 'Figma', 'ESLint', 'Biome'],
   },
   {
     title: 'Languages',
@@ -68,18 +68,19 @@ export const projectData = [
 ];
 
 export const experienceData = [
-  {
-    company: 'MOBI AUTOMATIONS',
-    role: 'Senior Frontend Engineer',
-    date: '2025 - Present',
-    description: 'Led the front-end delivery of product design systems, motion templates, and cross-platform web experiences for a global SaaS brand.',
-    responsibilities: ['Crafted reusable UI libraries', 'Built animated dashboard interactions', 'Mentored frontend teams'],
-  },
+
   {
     company: 'Frontend Mentor',
     role: 'Frontend Engineer',
     date: '2021 - Till Date ',
     description: 'Created interactive landing pages, marketing experiences, and lightweight component libraries for early-stage startups.',
-    responsibilities: ['Built polished marketing sites', 'Maintained a component library', 'Delivered quality design handoffs'],
+    responsibilities: ['Built polished  sites', 'Maintained Multiple component library', 'Delivered quality design handoffs'],
+  },
+   {
+    company: 'Mobi Automation',
+    role: 'Intern Frontend Engineer',
+    date: '2026 - Till Date ',
+    description: 'Created interactive Web3 Applications, Built multiple pages and conponents For Web2 Projects, and lightweight component libraries.',
+    responsibilities: ['Built web pages and UI Screens', 'Built Web3 dApps and components library', 'Delivered quality design.'],
   },
 ];

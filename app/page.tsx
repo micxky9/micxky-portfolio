@@ -30,7 +30,7 @@ export default function HomePage() {
               <div className="space-y-4">
                 <p className="text-sm uppercase tracking-[0.35em] text-slate-500">Hello, I&apos;m</p>
                 <h1 className="max-w-3xl text-5xl font-semibold leading-[1.02] text-white sm:text-6xl">
-                  Micxky — Software engineer building polished digital experiences.
+                  Micxky — Software and Frontend engineer building polished digital experiences.
                 </h1>
                 <p className="max-w-2xl text-lg leading-8 text-slate-400 sm:text-xl">
                   I design and engineer product-focused web applications with refined interactions, motion-driven layouts, and exceptional performance.
@@ -43,11 +43,11 @@ export default function HomePage() {
               <div className="grid gap-3">
                 <div className="rounded-3xl border border-slate-800 bg-white/5 p-4 transition duration-300 hover:-translate-y-1 hover:border-accent hover:shadow-glow">
                   <p className="text-sm text-slate-400">Experience</p>
-                  <p className="mt-2 text-2xl font-semibold text-white">7+ years</p>
+                  <p className="mt-2 text-2xl font-semibold text-white">1+ years</p>
                 </div>
                 <div className="rounded-3xl border border-slate-800 bg-white/5 p-4 transition duration-300 hover:-translate-y-1 hover:border-accent hover:shadow-glow">
                   <p className="text-sm text-slate-400">Focused on</p>
-                  <p className="mt-2 text-2xl font-semibold text-white">Web apps, design systems, motion</p>
+                  <p className="mt-2 text-2xl font-semibold text-white">Web apps, Landing Page, Booking Websites design systems, motion</p>
                 </div>
               </div>
             </div>
