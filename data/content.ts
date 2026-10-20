@@ -1,3 +1,5 @@
+import { title } from "process";
+
 export const socialData = [
   { label: 'GitHub', href: 'https://github.com/micxky9', icon: 'github' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/alih-michael-1989102b6/', icon: 'linkedin' },
@@ -48,6 +50,14 @@ export const projectData = [
     tags: ['React', 'GSAP', 'Node.js'],
     github: 'https://github.com/micxky9/Resturant-webpage',
     demo: 'https://resturant-micx.netlify.app/',
+  },
+  {
+    title: 'RESTAURANT WEBSITE DEMO TEMPLATE',
+    description: 'A demo website for restaurants, showcasing their menu and services,indoor and outdoor views and location.',
+    image: '/projects/resturant-demo.png',
+    tags: ['React', 'Tailwind'],
+    github: '',
+    demo: 'https://resturant-demo-showcase.vercel.app/',
   },
   {
     title: 'SKILL BRIDGE',
